@@ -17,4 +17,5 @@ int main(){
         slr *= 1.05;
         cout << fixed << slr << endl;
     }
+    
 }
